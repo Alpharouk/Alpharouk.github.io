@@ -7,7 +7,7 @@ header:
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
-My Github repository for this project: [click here][https://github.com/Alpharouk/Semantic-segmentation-RGBD-SegNet]
+My Github repository for this project: [click here](https://github.com/Alpharouk/Semantic-segmentation-RGBD-SegNet)
 
 This project is about semantic segmentation of 4 classes of plant organs (stem, petiole, leaf and fruit) from RGB-D images using Pyhton 3, Tensorflow 2.0 and Keras. I worked with synthetic data, randomly generated and annotated with Blender and used a SegNet architecture trained from Scratch with 10000 images.
 
