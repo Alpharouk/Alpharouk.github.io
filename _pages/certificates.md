@@ -1,6 +1,6 @@
 ---
-title: "Certificates"
-permalink: /certificates/
+title: "Resume"
+permalink: /resume/
 header:
   
 ---
