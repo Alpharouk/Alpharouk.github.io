@@ -1,6 +1,6 @@
 ---
-title: "Resume"
-permalink: /resume/
+title: "Resume/CV"
+permalink: /resume-CV/
 header:
   
 ---
