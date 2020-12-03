@@ -10,4 +10,4 @@ I am a Data Scientist and Machine Learning engineer. I have experience in execut
 Resume: [farouk_CV](https://alpharouk.github.io/resume-CV/)
 
 Certificates:
-  - [Tensorflow Developer certificate:](https://alpharouk.github.io/google-certificate/)
+  - [Tensorflow Developer certificate](https://alpharouk.github.io/google-certificate/)
