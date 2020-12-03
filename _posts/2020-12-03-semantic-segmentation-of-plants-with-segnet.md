@@ -68,6 +68,5 @@ This project is about semantic segmentation of plant organs into 4 classes + Bac
 
 - SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation by Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla, Senior Member, IEEE
 
-# Libraries needed for this notebook
 
 
