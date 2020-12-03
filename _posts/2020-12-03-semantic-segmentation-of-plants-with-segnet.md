@@ -23,7 +23,11 @@ This project is about semantic segmentation of 4 classes of plant organs (stem, 
 
 
 ## Dataset
-I published the Dataset in Dryad, here is the citation and the link of the Dataset.
+
+It's a synthetic dataset of plants image generated with Blender:
+<img width="931" src="/images/image_gen.png">
+
+The Dataset is now available in Dryad. Here is the citation and the link :
 
 Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, [https://doi.org/10.5061/dryad.ht76hdrd7](https://doi.org/10.5061/dryad.ht76hdrd7)
 
