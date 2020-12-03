@@ -24,7 +24,8 @@ This project is about semantic segmentation of 4 classes of plant organs (stem, 
 
 ## Dataset
 
-It's a synthetic dataset of plants image generated with Blender:
+It's a synthetic dataset of plants image generated with Blender as shown below :
+
 <img width="931" src="/images/image_gen.png">
 
 The Dataset is now available in Dryad. Here is the citation and the link :
