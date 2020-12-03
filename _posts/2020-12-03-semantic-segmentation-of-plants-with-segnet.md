@@ -3,7 +3,7 @@ title: "Semantic segmentation of plant organs using SegNet network and RGB-D ima
 date: 2020-12-03
 tags: [iameg segmentation, segnet, hdr images]
 header:
-  image: ""
+  
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
