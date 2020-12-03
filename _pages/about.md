@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
- image:  "/images/100+-EPIC-Best-Galaxy-2048-Pixels-Wide-And-1152-Pixels-Tall- (1).jpg"
+ image:  "/images/coooover.jpg"
   
 ---
 
