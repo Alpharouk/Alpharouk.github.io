@@ -1,10 +1,10 @@
 ---
 title: "Semantic segmentation of plant organs using SegNet network and RGB-D images"
 date: 2020-12-03
-tags: [iameg segmentation, segnet, hdr images]
+tags: [Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard]
 header:
   
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard"
 mathjax: "true"
 ---
 My Github repository for this project: [click here](https://github.com/Alpharouk/Semantic-segmentation-RGBD-SegNet)
