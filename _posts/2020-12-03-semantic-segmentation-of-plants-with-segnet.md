@@ -25,7 +25,7 @@ This project is about semantic segmentation of 4 classes of plant organs (stem, 
 ## Dataset
 I published the Dataset in Dryad, here is the citation and the link of the Dataset.
 
-Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, https://doi.org/10.5061/dryad.ht76hdrd7
+Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, [https://doi.org/10.5061/dryad.ht76hdrd7](https://doi.org/10.5061/dryad.ht76hdrd7)
 
 ## 1.Training & Evaluation
 
@@ -64,7 +64,7 @@ This project is about semantic segmentation of plant organs into 4 classes + Bac
 
 ## References
 
-- Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, https://doi.org/10.5061/dryad.ht76hdrd7
+- Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, [https://doi.org/10.5061/dryad.ht76hdrd7](https://doi.org/10.5061/dryad.ht76hdrd7)
 
 - SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation by Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla, Senior Member, IEEE
 
