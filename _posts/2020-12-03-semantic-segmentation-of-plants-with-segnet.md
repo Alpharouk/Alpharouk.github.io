@@ -1,5 +1,5 @@
 ---
-title: "Semantic segmentation of plant organs using SegNet network and RGB-D images"
+title: "Image segmentation: semantic segmentation of plant organs"
 date: 2020-12-03
 tags: [Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard]
 header:
