@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /data-wrangling/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Licenses & certifications"
+    url: /certifications/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
