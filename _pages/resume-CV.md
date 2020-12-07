@@ -5,4 +5,4 @@ header:
   
 ---
 
-<a href="/pdfs/CV_alpha_updated.pdf" class="image fit"><img src="/images/certificates-images/CV_alpha_updated_page-0001.jpg" alt=""></a>
+<a href="/pdfs/farouk_el_baha_resume.pdf" class="image fit"><img src="/images/certificates-images/farouk_el_baha_resume_page-0001.jpg" alt=""></a>
