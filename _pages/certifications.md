@@ -2,7 +2,7 @@
 title: "Licenses & certifications"
 permalink: /certifications/
 header:
-   image:'/images/cover88.jpg'
+   image: /images/cover88.jpg
 
 ---
 
