@@ -28,9 +28,12 @@ It's a synthetic dataset of plants image generated with Blender as shown below :
 
 <img width="931" src="/images/image_gen.png">
 
-The Dataset is now available in Dryad. Here is the citation and the link :
+The Dataset is now available in Kaggle: 
+[https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants](https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants)
 
-Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, [https://doi.org/10.5061/dryad.ht76hdrd7](https://doi.org/10.5061/dryad.ht76hdrd7)
+You can check also the public notebook i've made for this data set here: 
+[https://www.kaggle.com/harlequeen/semantic-segmentation-of-plants-with-segnet](https://www.kaggle.com/harlequeen/semantic-segmentation-of-plants-with-segnet)
+
 
 ## 1.Training & Evaluation
 
@@ -68,8 +71,6 @@ Here is a screenshot of one bloc of SegNet visualised in Tensorboard :
 This project is about semantic segmentation of plant organs into 4 classes + Background using synthetic RGB-D images.
 
 ## References
-
-- Alfarouk, El Baha (2020), Synthetic HDR dataset of RGB-D images of plants and their masks for semantic and instance segmentation, Dryad, Dataset, [https://doi.org/10.5061/dryad.ht76hdrd7](https://doi.org/10.5061/dryad.ht76hdrd7)
 
 - SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation by Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla, Senior Member, IEEE
 
