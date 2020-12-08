@@ -28,11 +28,9 @@ It's a synthetic dataset of plants image generated with Blender as shown below :
 
 <img width="931" src="/images/image_gen.png">
 
-The Dataset is now available in Kaggle: 
-[https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants](https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants)
+The Dataset is now available in [Kaggle](https://www.kaggle.com/harlequeen/synthetic-rgbd-images-of-plants).
 
-You can check also the public notebook i've made for this data set here: 
-[https://www.kaggle.com/harlequeen/semantic-segmentation-of-plants-with-segnet](https://www.kaggle.com/harlequeen/semantic-segmentation-of-plants-with-segnet)
+You can check also the public notebook i've made for this data set [here](https://www.kaggle.com/harlequeen/semantic-segmentation-of-plants-with-segnet).
 
 
 ## 1.Training & Evaluation
