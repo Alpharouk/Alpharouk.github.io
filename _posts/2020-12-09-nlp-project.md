@@ -12,7 +12,7 @@ mathjax: "true"
 We will be using "BBC-news" dataset ( available in Kaggle ) to do following steps:
 
  - Pre-process the dataset
- - Build models to classify sentences into 5 categories ( tech, business, sport, entertainment, politics )
+ - Build 3 types of model to classify sentences into 5 categories ( tech, business, sport, entertainment, politics )
  - Compare models performance
  - Visualisation of the word embedding in 2D using PCA
  - Visualisation of the word embedding in 3D using T-SNE
