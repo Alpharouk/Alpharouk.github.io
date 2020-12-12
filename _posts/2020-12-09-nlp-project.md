@@ -7,6 +7,8 @@ header:
 excerpt: "Natural Language Processing, LSTM, Con1D, PCA, T-SNE, Word Embedding"
 mathjax: "true"
 ---
+![png](/images/nlp_project_files/text_process_prediction.png)
+
 We will be using "BBC-news" dataset ( available in Kaggle ) to do following steps:
 
  - Pre-process the dataset
