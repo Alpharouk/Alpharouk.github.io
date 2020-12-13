@@ -3,6 +3,8 @@ title: "Computer Vision : Semantic segmentation of RGB-D images of plant organs"
 date: 2020-12-03
 tags: [Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard]
 header:
+ image : "images/cover7.jpg"
+
   
 excerpt: "Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard"
 mathjax: "true"
