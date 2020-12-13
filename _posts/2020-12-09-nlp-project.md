@@ -236,7 +236,6 @@ y=model_32_LSTM.layers[0]
 weight2=y.get_weights()[0]
 z=model_lstm_conv1d.layers[0]
 weight3=z.get_weights()[0]
-
 ```
 Here, we define a function that decodes a token into a word
 
@@ -245,8 +244,8 @@ reverse_word_index = dict([(value, key) for (key, value) in word_index.items()])
 
 def decode_sentence(text):
     return ' '.join([reverse_word_index.get(i, '?') for i in text])
-
 ```
+
 (Optional): the code below is for the euclidian distance and cosine similarity
 
 ```
@@ -258,8 +257,8 @@ def cos_sim(a,b):
 
 def euc_dist(a,b):
   return np.linalg.norm(a-b)
-
 ```
+
 # Correlation matrix, Eigen Values/Vectors and PCA
 
 
@@ -267,17 +266,21 @@ def euc_dist(a,b):
 ```
 import pandas as pd
 df=pd.DataFrame(weight1)
-```
-
-
-```
 X_corr=df.corr()
+```
+
+![png](/images/nlp_project_files/corr_matrix.png)
+
+
+```
 values,vectors=np.linalg.eig(X_corr)
 eigv_s=(-values).argsort()
 vectors=vectors[:,eigv_s]
 new_vectors=vectors[:,:2]
 new_X=np.dot(weight1,new_vectors)
 ```
+
+Here, we reduced the embedding dimension from 16 to 2 ie: we've chosen the 2 eigen vectors (x1,x2) that have the highest eigen values then we did a dot product between the embedding matrix of shape (1000,16) and the new vector of shape (16,2).
 
 
 ```
@@ -298,8 +301,22 @@ for i in range(vocab):
   plt.annotate(word,xy=(sampled_X[i,0],sampled_X[i,1]))
 ```
 
+Below is the visualisation of the word embedding of the "BBC news" dataset in 2D.
 
 ![png](/images/nlp_project_files/nlp_project_25_0.png)
+
+# Word embedding in 3D using T-SNE
+
+Here is the T-SNE visualisation of the word embedding in 3D. It was done using "Embedding Projector" with 5035 iterations and 25 perplexity.
+
+![png](/images/nlp_project_files/tsne.png)
+
+We can see that the embedding is divided into 6 groups of words. In fact, each one contains words that are specific to each class.
+
+# Conclusion
+
+This project was about classifying text using "BBC news" dataset, comparing between different models performances and visualizing word embedding using PCA and T-SNE.
+
 
 
 
