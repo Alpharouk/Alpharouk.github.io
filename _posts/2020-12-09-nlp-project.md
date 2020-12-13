@@ -21,7 +21,7 @@ We will be using "BBC-news" dataset ( available in Kaggle ) to do following step
  - Visualisation of the word embedding in 2D using PCA
  - Visualisation of the word embedding in 3D using T-SNE
  
- # Downloading Dataset
+# Downloading Dataset
  
 ```
 !wget --no-check-certificate \
