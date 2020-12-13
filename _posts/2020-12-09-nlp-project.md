@@ -20,6 +20,8 @@ We will be using "BBC-news" dataset ( available in Kaggle ) to do following step
  - Compare models performance
  - Visualisation of the word embedding in 2D using PCA
  - Visualisation of the word embedding in 3D using T-SNE
+
+
  
 # Downloading Dataset
 
@@ -47,6 +49,7 @@ Below is the list of the stopwords that dont influence on the meaning of the sen
 ```
 stopwords = [ "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as", "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "could", "did", "do", "does", "doing", "down", "during", "each", "few", "for", "from", "further", "had", "has", "have", "having", "he", "he'd", "he'll", "he's", "her", "here", "here's", "hers", "herself", "him", "himself", "his", "how", "how's", "i", "i'd", "i'll", "i'm", "i've", "if", "in", "into", "is", "it", "it's", "its", "itself", "let's", "me", "more", "most", "my", "myself", "nor", "of", "on", "once", "only", "or", "other", "ought", "our", "ours", "ourselves", "out", "over", "own", "same", "she", "she'd", "she'll", "she's", "should", "so", "some", "such", "than", "that", "that's", "the", "their", "theirs", "them", "themselves", "then", "there", "there's", "these", "they", "they'd", "they'll", "they're", "they've", "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "we", "we'd", "we'll", "we're", "we've", "were", "what", "what's", "when", "when's", "where", "where's", "which", "while", "who", "who's", "whom", "why", "why's", "with", "would", "you", "you'd", "you'll", "you're", "you've", "your", "yours", "yourself", "yourselves" ]
 ```
+
 # Reading the dataset and removing the stopwords 
 
 After this lines of codes, sentences and labels is 2 lists that contain 2225 values each.
@@ -136,6 +139,9 @@ history = model_64_dense.fit(train_padded, training_label_seq, epochs=num_epochs
 
 Next, is an LSTM of 32 units
 
+![png](/images/nlp_project_files/lstm.png)
+
+
 ```
 model_32_LSTM = tf.keras.Sequential([
     tf.keras.layers.Embedding(vocab_size, embedding_dim, input_length=max_length),
@@ -157,6 +163,10 @@ history2 = model_32_LSTM.fit(train_padded, training_label_seq, epochs=60, valida
 
 
 The last one has Con1D in addition to LSTM:
+
+![png](/images/nlp_project_files/demcq.png)
+
+
 ```
 model_lstm_conv1d = tf.keras.Sequential([
     tf.keras.layers.Embedding(vocab_size, embedding_dim, input_length=max_length),
