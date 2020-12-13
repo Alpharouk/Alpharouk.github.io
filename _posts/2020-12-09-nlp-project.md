@@ -108,6 +108,8 @@ validation_label_seq = np.array(label_tokenizer.texts_to_sequences(validation_la
 
 We wil start by the most simple one with 24 Denses layers
 
+![png](/images/nlp_project_files/bidirectional.png)
+
 ```
 model_64_dense = tf.keras.Sequential([
     tf.keras.layers.Embedding(vocab_size, embedding_dim, input_length=max_length),
