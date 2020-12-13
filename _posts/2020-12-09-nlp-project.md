@@ -22,6 +22,7 @@ We will be using "BBC-news" dataset ( available in Kaggle ) to do following step
  - Visualisation of the word embedding in 3D using T-SNE
  
 # Downloading Dataset
+
  
 ```
 !wget --no-check-certificate \
@@ -40,6 +41,7 @@ padding_type='post'
 oov_tok = "<OOV>"
 training_portion = .8
 ```
+
 Below is the list of the stopwords that dont influence on the meaning of the sentences.
 
 ```
@@ -63,6 +65,7 @@ with open("/tmp/bbc-text.csv", 'r') as csvfile:
             sentence = sentence.replace(token, " ")
         sentences.append(sentence)
 ```
+
 # Pre-processing of data
 
 We will start by splitting it into training and validation parts using the ratio "training_portion = 0.8"
@@ -76,6 +79,7 @@ train_labels = labels[:train_size]
 validation_sentences = sentences[train_size:]
 validation_labels = labels[train_size:]
 ```
+
 The code below is for tokenization and padding of each sentences into a tokenized array with length 120.
 
 ```
@@ -95,6 +99,7 @@ validation_padded = pad_sequences(validation_sequences, padding=padding_type, ma
 ```
 
 We will also tokenize labels into 6 classes ( tech, business, sport, entertainment, politics, OOV ), the additional class is for out of vocabulary.
+
 ```
 label_tokenizer = Tokenizer()
 label_tokenizer.fit_on_texts(labels)
@@ -104,6 +109,7 @@ training_label_seq = np.array(label_tokenizer.texts_to_sequences(train_labels))
 validation_label_seq = np.array(label_tokenizer.texts_to_sequences(validation_labels))
 
 ```
+
 # Building models for sentence classification
 
 We wil start by the most simple one with 24 Denses layers
@@ -171,7 +177,9 @@ history3 = model_lstm_conv1d.fit(train_padded, training_label_seq, epochs=num_ep
 
 ![png](/images/nlp_project_files/nlp_project_16_1.png)
 
+
 # Comparison of performance between the 3 models
+
 
 ```
 plt.plot(history.history['accuracy'])
