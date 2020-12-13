@@ -1,5 +1,5 @@
 ---
-title: "NLP : LSTM, Con1D, PCA, T-SNE, Word Embedding"
+title: "NLP : Text classification of BBC news dataset"
 date: 2020-12-09
 tags: [LSTM, Con1D, PCA, T-SNE, Word Embedding]
 header:
