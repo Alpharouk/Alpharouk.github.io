@@ -7,6 +7,10 @@ header:
 excerpt: "Natural Language Processing, LSTM, Con1D, PCA, T-SNE, Word Embedding"
 mathjax: "true"
 ---
+This project is about text classification ie: given a text, we would want to predict its class (tech, business, sport, entertainment or politics).
+
+My github repository for this project is [here](https://github.com/Alpharouk/NLP-Word_Embedding-LSTM-PCA-TSNE)
+
 ![png](/images/nlp_project_files/text_process_prediction.png)
 
 We will be using "BBC-news" dataset ( available in Kaggle ) to do following steps:
@@ -16,6 +20,8 @@ We will be using "BBC-news" dataset ( available in Kaggle ) to do following step
  - Compare models performance
  - Visualisation of the word embedding in 2D using PCA
  - Visualisation of the word embedding in 3D using T-SNE
+ 
+ # Downloading Dataset
  
 ```
 !wget --no-check-certificate \
