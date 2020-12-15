@@ -6,7 +6,7 @@ header:
  image : "images/cover7.jpg"
 
   
-excerpt: "Natural Language Processing, LSTM, Con1D, PCA, T-SNE, Word Embedding"
+excerpt: "Natural Language Processing, LSTM, Con1D, PCA, T-SNE, Word Embedding, Tensorflow, Keras, Embedding Projector"
 mathjax: "true"
 ---
 This project is about text classification ie: given a text, we would want to predict its class (tech, business, sport, entertainment or politics).
