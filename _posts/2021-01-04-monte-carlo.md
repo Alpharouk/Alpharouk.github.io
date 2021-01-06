@@ -1,6 +1,6 @@
 ---
 title: "Monte Calos"
-date: 2020-04-01
+date: 2019-04-01
 tags: [Maths, Statistics, Optimisation, Probability]
 header:
  image : "images/cover7.jpg"
