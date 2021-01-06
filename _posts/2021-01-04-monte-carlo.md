@@ -1,12 +1,12 @@
 ---
 title: "Monte Calos"
-date: 2021-01-04
-tags: [LSTM, Con1D, PCA, T-SNE, Word Embedding]
+date: 2020-04-01
+tags: [Maths, Statistics, Optimisation, Probability]
 header:
  image : "images/cover7.jpg"
 
   
-excerpt: "Natural Language Processing, LSTM, Con1D, PCA, T-SNE, Word Embedding, Tensorflow, Keras, Embedding Projector"
+excerpt: "Maths, Statistics, Optimisation, Probability"
 mathjax: "true"
 ---
 A Monte Carlo method is a technique that uses random numbers and probability to solve complex problems. The Monte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial sectors, project management, costs, and other forecasting machine learning models.
