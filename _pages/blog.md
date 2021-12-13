@@ -2,6 +2,6 @@
 title: "Blogs"
 permalink: /blog/
 header:
-   image: "/images/cover88.jpg"
+   image: "/images/hahahaha.jpg"
 
 ---
