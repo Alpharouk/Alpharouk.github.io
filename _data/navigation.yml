@@ -6,8 +6,8 @@ main:
     url: /data-wrangling/
   - title: "Licenses & certifications"
     url: /certifications/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: /blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
