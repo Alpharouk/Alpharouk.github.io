@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-permalink: /blogs/
+permalink: /blog/
 header:
    image: "/images/cover88.jpg"
 
