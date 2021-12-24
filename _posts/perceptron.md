@@ -1,6 +1,6 @@
 ---
 title: "First generation of Neural Network"
-date: 2021-09-98
+date: 2021-09-28
 tags: [Maths, Statistics, Optimisation, Probability]
 header:
  image : "images/richard3.jpg"
