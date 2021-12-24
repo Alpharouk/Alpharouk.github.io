@@ -10,13 +10,14 @@ excerpt: From Perceptron’s learning procedure to Backpropagation
 mathjax: "true"
 ---
 In this article we will see how the first generation of neural networks used to learn weights and biases and how Backpropagation made the learning possible for bigger networks.
-![jpg](/images/perceptron/NN archi.jpg)
+
+![png](/images/perceptron/NN archi.png)
 
 ## Perceptrons
 # What is a Perceptron ?
 It’s a simple neuron that takes as inputs a set of features ‘xi’ and outputs ‘1’ if the weighted sum of every feature ‘xi’ by its weight ‘ωi’ is greater than a specific threshold ‘θ’, otherwise it outputs ‘0’ (a threshold is equivalent to having a weight on an extra input that always has 1 as input, it’s called biais)
 
-![jpg](/images/perceptron/formule 1.jpg)
+![png](/images/perceptron/formule 1.png)
 ```
 import math
 import random
