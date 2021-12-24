@@ -9,7 +9,7 @@ header:
 excerpt: 
  image : "images/richard3.jpg"
  "hello"
-mathjax: "false"
+mathjax: "true"
 ---
 A Monte Carlo method is a technique that uses random numbers and probability to solve complex problems. The Monte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial sectors, project management, costs, and other forecasting machine learning models.
 Risk analysis is part of almost every decision we make, as we constantly face uncertainty, ambiguity, and variability in our lives. Moreover, even though we have unprecedented access to information, we cannot accurately predict the future.
