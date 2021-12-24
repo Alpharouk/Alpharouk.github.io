@@ -11,7 +11,7 @@ mathjax: "true"
 ---
 In this article we will see how the first generation of neural networks used to learn weights and biases and how Backpropagation made the learning possible for bigger networks.
 
-![png](/images/perceptron/NN archi.png)
+![png](/images/perceptron/NN-archi.png)
 
 ## Perceptrons
 # What is a Perceptron ?
