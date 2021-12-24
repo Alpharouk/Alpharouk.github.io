@@ -1,27 +1,22 @@
 ---
-title: "First generation of Neural Network"
-date: 2021-09-28
-tags: [Maths, Optimisation, Probability]
+title: "The evolution of Neural Network’s learning"
+date: 2021-11-12
+tags: [Deep Learning, Maths, Neural Network]
 header:
  image : "images/richard3.jpg"
 
   
-excerpt: 
- image : "images/richard3.jpg"
- "hello"
+excerpt: From Perceptron’s learning procedure to Backpropagation
 mathjax: "true"
 ---
-A Monte Carlo method is a technique that uses random numbers and probability to solve complex problems. The Monte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial sectors, project management, costs, and other forecasting machine learning models.
-Risk analysis is part of almost every decision we make, as we constantly face uncertainty, ambiguity, and variability in our lives. Moreover, even though we have unprecedented access to information, we cannot accurately predict the future.
-The Monte Carlo simulation allows us to see all the possible outcomes of our decisions and assess risk impact, in consequence allowing better decision making under uncertainty.
-In this article, we will go through 2 differents examples to understand the Monte Carlo Simulation method.
+In this article we will see how the first generation of neural networks used to learn weights and biases and how Backpropagation made the learning possible for bigger networks.
+![png](/images/perceptron/NN archi.jpg)
 
-## Coin Flip
+## Perceptrons
+# What is a Perceptron ?
+It’s a simple neuron that takes as inputs a set of features ‘xi’ and outputs ‘1’ if the weighted sum of every feature ‘xi’ by its weight ‘ωi’ is greater than a specific threshold ‘θ’, otherwise it outputs ‘0’ (a threshold is equivalent to having a weight on an extra input that always has 1 as input, it’s called biais)
 
-The probability of head for a fair coin is 1/2. However, is there any way we can prove it experimentally? In this example, we are going to use the Monte-Carlo method to simulate the coin-flipping iteratively 10000 times to find out why the probability of a head or tail is always 1/2. If we repeat this coin flipping many, many more times, then we can achieve higher accuracy on an exact answer for our probability value.
-
-![png](/images/monte_carlo/coin_flip_01.png)
-
+![png](/images/perceptron/formule 1.jpg)
 ```
 import math
 import random
