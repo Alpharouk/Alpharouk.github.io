@@ -1,7 +1,7 @@
 ---
 title: "First generation of Neural Network"
 date: 2021-09-28
-tags: [Maths, Statistics, Optimisation, Probability]
+tags: [Maths, Optimisation, Probability]
 header:
  image : "images/richard3.jpg"
 
@@ -100,14 +100,3 @@ def monty_hall(n):
 monty_hall(2000)
 ```
 
-
-![png](/images/monte_carlo/Copie_de_Copie_de_monte_carloos_2_0.png)
-
-## Conclusion
-
-It is important to remember that the Monte Carlo Simulation only represents probabilities and not certainty. Nevertheless, the Monte Carlo simulation can be a valuable tool when forecasting an unknown future.
-
-## References
-
-- Georges-Louis Leclerc, Comte de Buffon, Wikipedia
-- Monte Carlo Simulation An In-depth Tutorial with Python, Medium
