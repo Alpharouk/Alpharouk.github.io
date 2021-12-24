@@ -1,5 +1,6 @@
 ---
 title: "The evolution of Neural Network’s learning"
+permalink: https://medium.com/@alfarouk.elbaha/the-evolution-of-neural-networks-learning-from-perceptron-s-learning-procedure-to-c0955a0d38fc
 date: 2021-11-12
 tags: [Deep Learning, Maths, Neural Network]
 header:
