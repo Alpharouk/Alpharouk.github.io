@@ -88,7 +88,7 @@ author:
   avatar           : "/images/pic%20of%20farouk.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Paris-France"
-  email            :
+  email            : "alfarouk.elbaha@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
