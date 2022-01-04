@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Projects"
-    url: /data-wrangling/
+    url: /data/
   - title: "Licenses & certifications"
     url: /certifications/
   - title: "Blog"
