@@ -6,9 +6,10 @@ header:
 
 ---
 ## The evolution of Neural Network’s learning
-### From Perceptron’s learning procedure to Backpropagation
+:clock4: *6 minute read*
+From Perceptron’s learning procedure to Backpropagation
 
 ## Monte-Carlo simulation
-:clock4: *2 minute read*  
-### Maths, Statistics, Optimisation, Probability
+:clock4: *8 minute read*  
+Maths, Statistics, Optimisation, Probability
 
