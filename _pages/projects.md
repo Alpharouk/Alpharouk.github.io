@@ -1,6 +1,6 @@
 ---
-title: "Blogs"
-permalink: /blog/
+title: "Projects"
+permalink: /project/
 header:
    image: "/images/richard3.jpg"
 
@@ -9,7 +9,7 @@ header:
 :clock4: *<font size="3">6 minute read</font>*  
 From Perceptron’s learning procedure to Backpropagation
 
-## Monte-Carlo simulation
+## [Monte-Carlo simulation](https://alpharouk.github.io/nlp-project/)
 :hourglass_flowing_sand: *<font size="3">7 minute read</font>*  
 Maths, Statistics, Optimisation, Probability
 
