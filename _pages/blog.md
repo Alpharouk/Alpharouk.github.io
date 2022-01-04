@@ -6,7 +6,7 @@ header:
 
 ---
 ## The evolution of Neural Network’s learning
-:clock4: *6 minute read*
+:clock4: <font size="1">*6 minute read*</font>  
 From Perceptron’s learning procedure to Backpropagation
 
 ## Monte-Carlo simulation
