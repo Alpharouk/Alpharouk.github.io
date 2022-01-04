@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /project/
+permalink: /projects/
 header:
    image: "/images/richard3.jpg"
 
