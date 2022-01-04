@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Projects"
-  #  url: /data-wrangling/
+  - title: "Projects"
+    url: /data-wrangling/
   - title: "Licenses & certifications"
     url: /certifications/
   - title: "Blog"
