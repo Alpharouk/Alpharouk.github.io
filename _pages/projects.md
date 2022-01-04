@@ -5,11 +5,12 @@ header:
    image: "/images/richard3.jpg"
 
 ---
-## The evolution of neural network’s learning
-<font size="3">:clock4: 6 minute read</font> 
-From Perceptron’s learning procedure to Backpropagation
-
-## [Monte-Carlo simulation](https://alpharouk.github.io/nlp-project/)
+## [Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)
+<font size="2">:clock4: 6 minute read</font> 
+<font size="4">Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard</font>  
+*<font size="3">20 September 2020</font>*  
+## [Text classification of BBC news dataset](https://alpharouk.github.io/nlp-project/)
 :hourglass_flowing_sand: *<font size="3">7 minute read</font>*  
-Maths, Statistics, Optimisation, Probability
+Maths, Statistics, Optimisation, Probability  
+*<font size="3">11 June 2019</font>*
 
