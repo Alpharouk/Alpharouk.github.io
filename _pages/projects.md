@@ -6,9 +6,9 @@ header:
 
 ---
 ## [Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)
-:   <font size="2">:clock4: 6 minute read</font>  
+<font size="2">:clock4: 6 minute read</font>  
 <font size="4">Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard</font>  
-Keywords : `Deep Learning` , `<span style="color:grey"><font size="3">Statistics</font></span>`, <span style="color:grey"><font size="3">`Statistics`</font></span>    
+<font size="3"> *Keywords* : `Deep Learning`, `SegNet`, `Semantic Segmentation` </font>  
 <span style="color:grey">*<font size="2">20 September 2020</font>*</span>
 
 ## [Text classification of BBC news dataset<](https://alpharouk.github.io/nlp-project/)
