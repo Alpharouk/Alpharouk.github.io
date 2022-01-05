@@ -3,6 +3,7 @@ title: "Blogs"
 permalink: /blog/
 header:
    image: "/images/richard3.jpg"
+tags: [Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard]
 
 ---
 ## [The evolution of neural network’s learning](https://alpharouk.github.io/perceptron/)
@@ -14,4 +15,10 @@ From Perceptron’s learning procedure to Backpropagation
 :clock4: *<font size="3">7 minute read</font>*  
 Maths, Statistics, Optimisation, Probability  
 <span style="color:grey">*<font size="2">20 September 2020</font>*</span>
+
+tags: [Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard]
+
+---
+tags: [Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard]
+---
 
