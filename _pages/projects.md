@@ -5,7 +5,7 @@ header:
    image: "/images/richard3.jpg"
 
 ---
-## [Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)
+## <span style="color:black">[Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)</span>
 <font size="2">:clock4: 6 minute read</font>  
 <font size="4">Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard</font>  
 *<font size="3">20 September 2020</font>*  
