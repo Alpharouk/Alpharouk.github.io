@@ -5,13 +5,14 @@ header:
    image: "/images/richard3.jpg"
 
 ---
-## [<ins><span style="color:black">Semantic segmentation of RGB-D images of plant organs</span></ins>](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)
+Semantic segmentation of RGB-D images of plant organs
+## <span style="color:black">[Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)</span>
 <font size="2">:clock4: 6 minute read</font>  
 <font size="4">Deep Learning, Semantic Segmentation, Convolutional Neural Networks, SegNet, HDR Images, Tensorflow, Keras, Tensorboard</font>  
 <span style="color:grey">*<font size="2">20 September 2020</font>*</span>
 
 ## [<span style="color:black">Text classification of BBC news dataset</span>](https://alpharouk.github.io/nlp-project/)
-:clock4:*<font size="2">7 minute read</font>*  
+<font size="2">:clock4: 7 minute read</font>  
 <font size="4">Maths, Statistics, Optimisation, Probability</font>   
 <span style="color:grey">*<font size="2">11 June 2019</font>*</span>
 
