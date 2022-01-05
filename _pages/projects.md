@@ -15,3 +15,8 @@ header:
 <font size="4">Maths, Statistics, Optimisation, Probability</font>   
 <span style="color:grey">*<font size="2">11 June 2019</font>*</span>
 
+## [The evolution of neural network’s learning](https://alpharouk.github.io/perceptron/)
+:clock4: *<font size="3">6 minute read</font>*  
+<font size="4">From Perceptron’s learning procedure to Backpropagation</font>    
+<span style="color:grey">*<font size="2">20 September 2020</font>*</span>
+
