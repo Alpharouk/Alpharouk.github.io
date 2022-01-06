@@ -4,11 +4,11 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Blogs"
+    url: /blog/  
   - title: "Licenses & certifications"
     url: /certifications/
-  - title: "Blog"
-    url: /blog/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Art"
+    url: /art/
   # - title: "Sitemap"
   #   url: /sitemap/
