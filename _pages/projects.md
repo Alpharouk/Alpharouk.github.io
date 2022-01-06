@@ -7,7 +7,7 @@ header:
 ---
 ## [Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)
 <font size="2">🕓 6 minute read</font>  
-<font size="4">his project is about semantic segmentation of plant organs using synthetic RGB-D images</font>  
+<span style="color:white">.</span><font size="4">This project is about semantic segmentation of plant organs using synthetic RGB-D images</font>  
 <span style="color:green"><font size="3">🔑: Deep Learning, `Semantic Segmentation`, `Convolutional Neural Networks`, `SegNet`, `Tensorflow`, `HDR Images`</font></span>  
 <span style="color:grey"> *<font size="2">📅 20 September 2020</font>*</span>
 
