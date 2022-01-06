@@ -11,7 +11,8 @@ header:
 <span style="color:grey"><font size="3">🔑 Perceptron, Mathematics, Backpropagation, Gradient Descent, Deep Learning</font></span>  
 <span style="color:white">.</span><font size="2">📅</font>*<font size="2"> 1 October 2021</font>*
 
-## [Monte-Carlo simulation](https://alpharouk.github.io/monte-carlo/)
-:clock4: *<font size="3">7 minute read</font>*  
-Maths, Statistics, Optimisation, Probability  
-<span style="color:grey">*<font size="2">20 September 2020</font>*</span>
+### [Monte-Carlo simulation](https://alpharouk.github.io/monte-carlo/)
+<font size="2">🕓 10 minute read</font>  
+<span style="color:white">.</span><font size="4">An explanation of the Monte-Carlo simulation and how it can solve complex probalibily-oriented problems </font>  
+<span style="color:grey"><font size="3">🔑 Probability, Statistics, Python, Monty Hall, Bayes</font></span>  
+<span style="color:white">.</span><font size="2">📅</font>*<font size="2"> 12 January 2019</font>*
