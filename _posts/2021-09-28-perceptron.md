@@ -1,5 +1,4 @@
 ---
-title: "The evolution of Neural Network’s learning"
 header:
  image : "images/richard3.jpg"
 
