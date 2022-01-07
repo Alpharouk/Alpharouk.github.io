@@ -3,7 +3,7 @@ title: "Monte-Carlo simulation"
 date: 2019-04-01
 tags: [Maths, Statistics, Optimisation, Probability]
 header:
- image : "images/cover7.jpg"
+ image : "/images/cover6.jpg"
 
   
 excerpt: "Maths, Statistics, Optimisation, Probability"
