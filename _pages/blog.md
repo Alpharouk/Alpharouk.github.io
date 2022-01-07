@@ -2,7 +2,7 @@
 title: "Blogs"
 permalink: /blog/
 header:
-   image: "/images/richard3.jpg"
+   image: "/images/cover6.jpg"
 
 ---
 ### [The Evolution Of Neural Network’s Learning](https://medium.com/@alfarouk.elbaha/the-evolution-of-neural-networks-learning-from-perceptron-s-learning-procedure-to-c0955a0d38fc)
