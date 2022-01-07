@@ -1,7 +1,7 @@
 ---
 title: "The evolution of neural network's learning"
 header:
- image : "images/richard3.jpg"
+ image : "/images/cover6.jpg"
 
   
 excerpt: .This article is about the first generation of neural network, how it used to learn and what made advanced AI possible
