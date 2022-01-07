@@ -3,7 +3,7 @@ title: "NLP : Text classification of BBC news dataset"
 date: 2020-12-09
 tags: [LSTM, Con1D, PCA, T-SNE, Word Embedding]
 header:
- image : "images/cover7.jpg"
+ image : "/images/cover6.jpg"
 
   
 excerpt: "Natural Language Processing, LSTM, Con1D, PCA, T-SNE, Word Embedding, Tensorflow, Keras, Embedding Projector"
