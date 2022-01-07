@@ -4,7 +4,7 @@ header:
  image : "/images/cover6.jpg"
 
   
-excerpt: .This article is about the first generation of neural network, how it used to learn and what made advanced AI possible
+excerpt: This article is about the first generation of neural network, how it used to learn and what made advanced AI possible
 
 mathjax: "true"
 ---
