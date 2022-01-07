@@ -2,7 +2,7 @@
 title: "Projects"
 permalink: /projects/
 header:
-   image: "/images/richard3.jpg"
+   image: "/images/cover6.jpg"
 
 ---
 ### [Semantic segmentation of RGB-D images of plant organs](https://alpharouk.github.io/semantic-segmentation-of-plants-with-segnet/)
